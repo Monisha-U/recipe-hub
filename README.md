@@ -1,5 +1,4 @@
-# recipe-hub
-
+# Recipe-Hub
 
 Recipe Hub App 
 Project Overview: 
